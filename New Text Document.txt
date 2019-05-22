@@ -1,0 +1,2 @@
+https://github.com/zeptobook/Angular7CRUD/archive/master.zip
+https://github.com/KrunalLathiya/Angular7CRUDExample/archive/master.zip
